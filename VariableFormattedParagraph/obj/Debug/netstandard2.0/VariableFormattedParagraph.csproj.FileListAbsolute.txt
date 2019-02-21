@@ -1,0 +1,10 @@
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.csprojAssemblyReference.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.csproj.CoreCompileInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.AssemblyInfoInputs.cache
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.AssemblyInfo.cs
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\bin\Debug\netstandard2.0\VariableFormattedParagraph.deps.json
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\bin\Debug\netstandard2.0\VariableFormattedParagraph.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\bin\Debug\netstandard2.0\VariableFormattedParagraph.pdb
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.dll
+C:\Users\drako\Source\Repos\xamarin\xamarin-forms-book-samples\Chapter03\VarFormPara\VariableFormattedParagraph\VariableFormattedParagraph\obj\Debug\netstandard2.0\VariableFormattedParagraph.pdb
